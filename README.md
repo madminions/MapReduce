@@ -14,3 +14,6 @@
 9. Start JobClient on any Node and enter Name of file.
 10. Word to find is stored in file searchString.txt
 11. output and all intermediate files are uploaded in HDFS by map*.fileName and outputFile
+
+Java RMI tutorial
+https://www.youtube.com/watch?v=GKIwu6XyqPI&list=PLGwb7xZHg-oMR0e6TSHKbc2SKOn_HJ-DR
